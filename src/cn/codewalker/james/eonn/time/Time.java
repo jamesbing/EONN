@@ -5,5 +5,6 @@ package cn.codewalker.james.eonn.time;
  *
  */
 public class Time {
+//	private 
 
 }
